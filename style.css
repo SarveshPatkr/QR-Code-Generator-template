@@ -22,8 +22,15 @@
     color: rgb(92, 92, 92);
     /* width: 225px; */
     /* height: 225px; */
-    /* background-color: antiquewhite; */
-    
+    /* background-color: antiquewhite; */  
+}
+.qr-code-genereted-img-container > a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    color: rgb(107, 107, 107);
+    text-decoration: none;
 }
 .qr-code-img{
     width: 225px;
